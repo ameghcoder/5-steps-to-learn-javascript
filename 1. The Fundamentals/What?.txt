@@ -1,0 +1,23 @@
+Variables: 
+    let, const, var
+
+Data Types: 
+    strings
+    numbers
+    boolean
+    array
+    object
+
+Operators:
+    arithmetic,
+    logical,
+    comparison
+
+Functions:
+    named, 
+    anonymous, 
+    arrow
+
+Conditional Statements:
+    if-else,
+    switch

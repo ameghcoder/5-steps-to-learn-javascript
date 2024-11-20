@@ -1,0 +1,23 @@
+Loops:
+    for,
+    while,
+    do...while,
+    for...of,
+    for...in,
+    Array.prototype.forEach(),
+    
+
+Higher Order Function:
+    map,
+    reduce,
+    filter, 
+    every,
+    some,
+
+Objects:
+    Deep vs Shallow copy,
+    destructuring,
+    spread operator
+
+ES6 Modules:
+    import/export
