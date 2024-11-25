@@ -1,0 +1,14 @@
+DOM
+    getElementById,
+    querySelector
+
+Event Handling
+    addEventListener
+    event delegation
+
+Browser API's 
+    local storage
+    session storage
+    navigator.geolocation
+    navigator.clipboard
+    navigator.share
