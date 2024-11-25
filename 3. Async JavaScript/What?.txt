@@ -1,0 +1,14 @@
+Async Javascript
+
+Core Concepts
+    callbacks
+    promises
+    .then().catch()
+    async/await
+    event loop
+
+API
+    fetch API, JSON.stringify() and parse()
+
+Error Handling
+    try/catch
