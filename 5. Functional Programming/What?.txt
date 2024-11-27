@@ -1,0 +1,9 @@
+Pure Functions
+Immutability
+Higher Order Functions
+Closures
+Recursion
+Currying
+
+-- Bonus --
+Template Literal
